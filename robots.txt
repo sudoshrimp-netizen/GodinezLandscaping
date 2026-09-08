@@ -1,0 +1,8 @@
+# Godinez Landscaping & Lawn Care
+# https://yourdomain.com
+
+User-agent: *
+Allow: /
+
+# Point crawlers to sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
